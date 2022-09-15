@@ -8,10 +8,12 @@
 ```sh
 $ pip3 install flask && python3 server.py
 ```
+```
 
 <head>
   ...
   <link rel="stylesheet" type="text/css" href="styles.css">
   ...
 </head>
+
 ```
